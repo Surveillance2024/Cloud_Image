@@ -1,3 +1,9 @@
 [submodule "ComfyUI"]
 	path = ComfyUI
 	url = https://github.com/Surveillance2024/ComfyUI.git
+[submodule "ECCV2022-RIFE"]
+	path = ECCV2022-RIFE
+	url = https://github.com/Surveillance2024/ECCV2022-RIFE.git
+[submodule "text_animate"]
+	path = text_animate
+	url = https://github.com/Surveillance2024/text_animate.git
